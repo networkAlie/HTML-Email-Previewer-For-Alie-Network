@@ -1,5 +1,3 @@
----
-
 # HTML Email Previewer for High-Impact Outreach
 
 This is a simple but powerful internal tool we developed at **Alie Network** to streamline our email marketing and outreach operations. It provides a live, real-time preview of HTML email templates, allowing for quick edits and ensuring that our communications are pixel-perfect before they reach our partners and clients.
