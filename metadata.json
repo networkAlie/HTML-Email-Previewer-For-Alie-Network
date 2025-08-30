@@ -1,0 +1,5 @@
+{
+  "name": "HTML Email Previewer",
+  "description": "A user-friendly tool to instantly preview HTML email code and copy it to the clipboard for easy use in any email client.",
+  "requestFramePermissions": []
+}
